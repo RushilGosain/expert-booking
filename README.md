@@ -2,6 +2,9 @@
 
 Expert Booking is a full-stack MERN application that allows users to browse experts, book appointments, and manage their bookings in a simple and secure way. This project demonstrates real world full stack development with authentication, REST APIs, and clean frontend architecture.
 
+Site Link 
+https://expert-booking.netlify.app/
+
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend  
